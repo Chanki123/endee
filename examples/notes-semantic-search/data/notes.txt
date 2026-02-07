@@ -1,1 +1,14 @@
+Ohm’s Law states that the current through a conductor is directly proportional
+to the voltage across it and inversely proportional to resistance.
+
+Kirchhoff’s Voltage Law states that the sum of all voltages in a closed loop
+is equal to zero.
+
+The OSI model consists of seven layers: Physical, Data Link, Network,
+Transport, Session, Presentation, and Application.
+
+TCP is a connection-oriented protocol that provides reliable data transfer.
+
+Python is an interpreted programming language widely used in data science
+and machine learning.
 
